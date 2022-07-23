@@ -1,0 +1,37 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    margin: 100px;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.qrRectangulo {
+    width: 270px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px; 
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+}
+.qrImagen {
+    border-radius: 10px;
+    width: 270px;
+}
+h3{
+    font-size: 22px;
+}
+p {
+    padding: 10px;
+    font-size: 15px;
+    color:hsl(220, 15%, 55%);
+}
+
+.attribution {
+    margin-top: 50px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
